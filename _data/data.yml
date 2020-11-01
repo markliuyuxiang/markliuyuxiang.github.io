@@ -109,10 +109,10 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: Experimental AI Projects
     intro: >
       Experience the next level of AI Technologies.
-      It's here, and it's easy to use. For professionals, developers and individuals.
+     
     assignments:
       - title: Auto Subtitle (API)
         link: "https://rapidapi.com/markbourne/api/auto-subtitle"
