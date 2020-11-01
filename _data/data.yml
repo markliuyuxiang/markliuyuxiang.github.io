@@ -114,7 +114,7 @@ projects:
         
       - title: Personal Robot (in Cheetah Mobile & OrionStar)
         link: "#"
-        tagline:  A Personal Assistant & Telepresence Robot.<br> <video width="320" height="240" controls><source type="video/mp4" src="https://github.com/markliuyuxiang/markliuyuxiang.github.io/blob/master/assets/smartbusiness.mp4?raw=true"></video><br><video width="320" height="240" controls><source type="video/mp4" src="https://github.com/markliuyuxiang/markliuyuxiang.github.io/blob/master/assets/21558C7F-4020-4BF2-8842-5C2FCEEA7972.mov.mp4?raw=true"></video>
+        tagline:  A Personal Assistant & Telepresence Robot.<br> <video width="480"  controls><source type="video/mp4" src="/assets/smartbusiness.mp4?raw=true"></video><br><video width="480"   controls><source type="video/mp4" src="/assets/21558C7F-4020-4BF2-8842-5C2FCEEA7972.mov.mp4?raw=true"></video>
 
 
 
