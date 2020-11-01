@@ -121,6 +121,10 @@ projects:
       - title: Image Background Remover (API)
         link: "https://rapidapi.com/markbourne/api/remove-image-background1"
         tagline: "Automatically remove Image Background (image matting) with Deep Learning algorithm."
+        
+      - title: Personal Robot (in Cheetah Mobile & OrionStar)
+        link: "#"
+        tagline:  <video width="320" height="240" controls><source type="video/mp4" src="https://github.com/markliuyuxiang/markliuyuxiang.github.io/blob/master/assets/smartbusiness.mp4?raw=true"></video>
 
 
 
